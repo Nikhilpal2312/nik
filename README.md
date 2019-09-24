@@ -1,2 +1,2 @@
-# nik
-Hey I am a developer
+# Nik
+Hey I am a Developer
